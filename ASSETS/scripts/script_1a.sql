@@ -1,5 +1,4 @@
 SELECT 
     *
 FROM
-    test_schema.products
-    
+    hw_theme_3_db.products

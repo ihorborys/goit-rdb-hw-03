@@ -1,4 +1,4 @@
 SELECT 
     name, phone
 FROM
-    test_schema.shippers
+    hw_theme_3_db.shippers
